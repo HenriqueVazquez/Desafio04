@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HenriqueVazquez/Desafio04?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://www.linkedin.com/in/henrique-vazquez-11905ab6">
     <img alt="Made by Henrique Vazquez" src="https://img.shields.io/badge/made%20by-HenriqueVazquez-%2304D361">
   </a>
 
